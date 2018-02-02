@@ -1,0 +1,12 @@
+#CvAllIn
+build
+bin
+
+*.exe
+*.ilk
+*.pdb
+
+# data ignore list
+*.avi
+*.rar
+*.zip

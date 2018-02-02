@@ -1,0 +1,10 @@
+This is a repo for XC to practice opencv codes.
+
+mapping folder:
+VS\MyCv_vc11
+
+# outline
+src
+    nonlinear_optimization
+    GaussianOpt
+    Tracking
