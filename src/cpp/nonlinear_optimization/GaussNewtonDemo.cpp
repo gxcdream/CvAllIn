@@ -3,7 +3,7 @@
 #include <cstdio>  
 #include <vector>  
 #include <opencv2/core/core.hpp>
-#include <opencv331_world/include/opencv2/world.hpp>
+//#include <opencv331_world/include/opencv2/world.hpp>
 //#include <opencv2/world.hpp>
 using namespace std;  
 using namespace cv;  
